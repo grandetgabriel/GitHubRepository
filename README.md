@@ -1,3 +1,3 @@
 # GitHubRepository
 
-Ajouté infos
+Ajouté infos, puis modifié ces infos.
